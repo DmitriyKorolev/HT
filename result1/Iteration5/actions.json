@@ -6,25 +6,25 @@
                 "stepId": "STEP23",
                 "stepName": "Url: Search Flights Button",
                 "infFile": "t4.inf",
-                "time": 1617105669404
+                "time": 1617108215170
             },
             {
                 "stepId": "STEP24",
                 "stepName": "Submit Data: reservations.pl",
                 "infFile": "t5.inf",
-                "time": 1617105669548
+                "time": 1617108215290
             },
             {
                 "stepId": "STEP25",
                 "stepName": "Submit Data: reservations.pl_2",
                 "infFile": "t6.inf",
-                "time": 1617105669655
+                "time": 1617108215395
             },
             {
                 "stepId": "STEP26",
                 "stepName": "Submit Data: reservations.pl_3",
                 "infFile": "t7.inf",
-                "time": 1617105669773
+                "time": 1617108215511
             }
         ],
         "transactions": []
@@ -36,7 +36,7 @@
                 "stepId": "STEP27",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t8.inf",
-                "time": 1617105670026
+                "time": 1617108215765
             }
         ],
         "transactions": []

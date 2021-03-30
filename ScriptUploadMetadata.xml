@@ -17,8 +17,10 @@
     <FileEntry Name="SeatingPref.dat" Filter="2" />
     <FileEntry Name="City1.dat" Filter="2" />
     <FileEntry Name="TypeOfSeat.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="combined_NT4HWup.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="103737500440.idx" Filter="1" />
     <FileEntry Name="197761814440.idx" Filter="1" />
     <FileEntry Name="19776181444_0KT.451.idx" Filter="1" />
@@ -37,7 +39,9 @@
     <FileEntry Name="19776181444_FQF.241.idx" Filter="1" />
     <FileEntry Name="19776181444_FUx.337.idx" Filter="1" />
     <FileEntry Name="19776181444_HFK.427.idx" Filter="1" />
+    <FileEntry Name="19776181444_HJh.717.idx" Filter="1" />
     <FileEntry Name="19776181444_hWE.875.idx" Filter="1" />
+    <FileEntry Name="19776181444_IO5.341.idx" Filter="1" />
     <FileEntry Name="19776181444_iqR.519.idx" Filter="1" />
     <FileEntry Name="19776181444_IXg.87.idx" Filter="1" />
     <FileEntry Name="19776181444_J7X.891.idx" Filter="1" />
@@ -89,6 +93,7 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
