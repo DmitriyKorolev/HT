@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>NT4HWup</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="Action1.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="NT4HWup.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="NT4HWup.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="SeatingPref.dat" Filter="2" />
+    <FileEntry Name="City1.dat" Filter="2" />
+    <FileEntry Name="TypeOfSeat.dat" Filter="2" />
+    <FileEntry Name="combined_NT4HWup.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="103737500440.idx" Filter="1" />
+    <FileEntry Name="197761814440.idx" Filter="1" />
+    <FileEntry Name="19776181444_0KT.451.idx" Filter="1" />
+    <FileEntry Name="19776181444_0nQ.173.idx" Filter="1" />
+    <FileEntry Name="19776181444_3pY.169.idx" Filter="1" />
+    <FileEntry Name="19776181444_3ZN.907.idx" Filter="1" />
+    <FileEntry Name="19776181444_4xV.525.idx" Filter="1" />
+    <FileEntry Name="19776181444_6ei.585.idx" Filter="1" />
+    <FileEntry Name="19776181444_8qJ.623.idx" Filter="1" />
+    <FileEntry Name="19776181444_AkD.567.idx" Filter="1" />
+    <FileEntry Name="19776181444_bm6.697.idx" Filter="1" />
+    <FileEntry Name="19776181444_Bvy.643.idx" Filter="1" />
+    <FileEntry Name="19776181444_cBD.623.idx" Filter="1" />
+    <FileEntry Name="19776181444_dAI.331.idx" Filter="1" />
+    <FileEntry Name="19776181444_EX4.471.idx" Filter="1" />
+    <FileEntry Name="19776181444_FQF.241.idx" Filter="1" />
+    <FileEntry Name="19776181444_FUx.337.idx" Filter="1" />
+    <FileEntry Name="19776181444_HFK.427.idx" Filter="1" />
+    <FileEntry Name="19776181444_hWE.875.idx" Filter="1" />
+    <FileEntry Name="19776181444_iqR.519.idx" Filter="1" />
+    <FileEntry Name="19776181444_IXg.87.idx" Filter="1" />
+    <FileEntry Name="19776181444_J7X.891.idx" Filter="1" />
+    <FileEntry Name="19776181444_jeJ.951.idx" Filter="1" />
+    <FileEntry Name="19776181444_K2p.885.idx" Filter="1" />
+    <FileEntry Name="19776181444_LCi.495.idx" Filter="1" />
+    <FileEntry Name="19776181444_ljs.45.idx" Filter="1" />
+    <FileEntry Name="19776181444_mpO.555.idx" Filter="1" />
+    <FileEntry Name="19776181444_MYk.815.idx" Filter="1" />
+    <FileEntry Name="19776181444_Naa.757.idx" Filter="1" />
+    <FileEntry Name="19776181444_NCE.965.idx" Filter="1" />
+    <FileEntry Name="19776181444_NtW.529.idx" Filter="1" />
+    <FileEntry Name="19776181444_PO3.653.idx" Filter="1" />
+    <FileEntry Name="19776181444_R7K.71.idx" Filter="1" />
+    <FileEntry Name="19776181444_rLX.991.idx" Filter="1" />
+    <FileEntry Name="19776181444_tHP.451.idx" Filter="1" />
+    <FileEntry Name="19776181444_tMv.265.idx" Filter="1" />
+    <FileEntry Name="19776181444_U6u.565.idx" Filter="1" />
+    <FileEntry Name="19776181444_uuS.167.idx" Filter="1" />
+    <FileEntry Name="19776181444_v4C.961.idx" Filter="1" />
+    <FileEntry Name="19776181444_vHM.463.idx" Filter="1" />
+    <FileEntry Name="19776181444_Wmo.657.idx" Filter="1" />
+    <FileEntry Name="19776181444_y1C.313.idx" Filter="1" />
+    <FileEntry Name="19776181444_yuF.783.idx" Filter="1" />
+    <FileEntry Name="19776181444_ZGq.841.idx" Filter="1" />
+    <FileEntry Name="19776181444_ZOt.881.idx" Filter="1" />
+    <FileEntry Name="19776181444_zp9.181.idx" Filter="1" />
+    <FileEntry Name="19776181444_ZuQ.645.idx" Filter="1" />
+    <FileEntry Name="19776181444_zYT.455.idx" Filter="1" />
+    <FileEntry Name="202681796440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="NewParam_1.dat" Filter="1" />
+    <FileEntry Name="NT4HWup.c.pickle" Filter="1" />
+    <FileEntry Name="NT4HWup.ci" Filter="1" />
+    <FileEntry Name="NT4HWup.prm.bak" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
