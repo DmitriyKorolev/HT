@@ -13,6 +13,7 @@ Action()
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
 		LAST);
+	
 
 	web_reg_save_param_ex(
 		"ParamName=OFlight",
